@@ -1,5 +1,4 @@
 apply from: "https://maven.itsmeow.dev/scripts/architectury-fabric.gradle"
-apply from: "https://maven.itsmeow.dev/scripts/architectury-fabric-imdlib.gradle"
 repositories {
     maven {
         name = "TerraformersMC"
