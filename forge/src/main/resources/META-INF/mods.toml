@@ -1,10 +1,10 @@
 modLoader="javafml"
-loaderVersion="[41,)"
+loaderVersion="[47,)"
 issueTrackerURL="https://github.com/itsmeow/BetterAnimalModels/issues"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/better-animal-models"
 logoFile="logo.png"
-credits="cybercat555: art, itsmeowdev: programming"
-authors="itsmeowdev, cybercat5555, Ocelot5836"
+credits="cybercat555: art, itsmeowdev: programming, sunbatheproductions: 1.20 port"
+authors="sunbatheproductions, itsmeowdev, cybercat5555, Ocelot5836"
 license="All Rights Reserved"
 [[mods]]
 modId="betteranimalmodels"
@@ -15,7 +15,7 @@ A mod to improve the vanilla animals' appearance in Minecraft.'''
 [[dependencies.betteranimalmodels]]
 	modId="forge"
 	mandatory=true
-	versionRange="[41.0.0,)"
+	versionRange="[47.0.0,)"
 	ordering="NONE"
 	side="CLIENT"
 #[[dependencies.betteranimalmodels]]
