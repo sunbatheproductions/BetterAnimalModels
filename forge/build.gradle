@@ -1,9 +1,8 @@
 apply from: "https://maven.itsmeow.dev/scripts/architectury-forge.gradle"
-apply from: "https://maven.itsmeow.dev/scripts/architectury-forge-imdlib.gradle"
 
 loom {
     forge {
-        mixinConfig "mixin.imdlib-betteranimalmodels.json", "betteranimalmodels.mixins.json"
+        mixinConfig "betteranimalmodels.mixins.json"
     }
 }
 
